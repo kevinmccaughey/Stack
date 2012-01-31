@@ -6,7 +6,8 @@ It may be easier for anyone using this to go to Vlad's source and edit from ther
 I will update again once I get the SSH working, some time Feb 2012
 
 
-** Original comments from Vlad **
+** What follows is the original comment from Vlad: **
+
 This package represents a script to install the latest NginX, MySQL and PHP (with APC and Suhosin):
 
   * NginX 1.1.14 stable
