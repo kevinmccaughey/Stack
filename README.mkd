@@ -1,3 +1,7 @@
+## DEPRECATED: I have switched to Ruby/Rails - see VladGH.com for this source ##
+
+
+
 EDIT: Package edited by Kevin MCCaughey (http://www.kevinmccaughey.org/?p=117)
 I have added PostgreSQL integration instead of MySQL and have experimental functions for
 automating firewall, fail2ban and SSH setup for a full server ready to port into
